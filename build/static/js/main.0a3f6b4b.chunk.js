@@ -1,0 +1,2 @@
+(this["webpackJsonpapp6-ssr"]=this["webpackJsonpapp6-ssr"]||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);n(1);var s=n(3),r=n.n(s),c=n(0),o=function(t){return Object(c.jsxs)("h1",{children:["Recode Pro ",t.ano,"!"]})};var a=function(){return Object(c.jsx)(o,{ano:"2021"})};r.a.hydrate(Object(c.jsx)(a,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.0a3f6b4b.chunk.js.map
